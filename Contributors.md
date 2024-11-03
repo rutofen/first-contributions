@@ -384,6 +384,7 @@ Oi eu sou o Lucas Rocha
 - Hi! This is AV13, marking my first step into open-source-projects.
 - It's Caroline!
 - Hello from Fritz!
+- Hi there! I'm [Rut]! it's my first step into open source contributions🎉. You can check my GitHub profile [here](https://github.com/rutofen).
 - Hello it is Shamus.
 - Namaskara from Karnataka. I'm Hemachandra MS. Dhanyavada.
 - Hello! This is [Niharika](https://github.com/niharikah005)
